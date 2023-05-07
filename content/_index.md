@@ -54,7 +54,7 @@ sections:
       items:
         - title: "Machine Learning Researcher "
           company: "Huawei Ireland Research"
-          company_url: "https://limos.fr"
+          company_url: "https://www.linkedin.com/company/huawei-ireland-research-center/mycompany/"
           location: "Dublin, Ireland"
           date_start: "2022-12-12"
           date_end: ""

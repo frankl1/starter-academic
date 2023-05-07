@@ -10,19 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Computer Sciences
+role: Machine Learning Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: LIMOS - Universty of Clermont Auvergne
-  url: "https://limos.fr/"
+- name: Huawei Technologies (Ireland)
+  url: "https://www.linkedin.com/company/huawei-ireland-research-center/mycompany/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, my main research interest is the analysis of uncertain time series.
+bio: Currently, my main research interests are anomaly detection and explainable artificial intelligence.
 
 interests:
 - Time Series Analysis
-- Machine Learning and Deep Learning
+- Machine Learning
+- Deep Learning
 - Artificial Intelligence
 - Taekwondo
 
@@ -60,9 +61,9 @@ social:
   link: https://github.com/frankl1
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "michael.mbouopda1@huawei.com"
@@ -74,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the University Of Clermont Auvergne , with the Laboratory of Computing, Modelling and Optimization of the Systems
+I am a machine learning researcher at Huawei Technologies, affected at the Ireland Intelligent Operation & Management Lab.
 
-I am interested in Machine Learning and Artificial Intelligence in general. Currently, I am working on the classification of uncertain time series data.
+I am interested in Machine Learning and Artificial Intelligence in general. Currently, I am working on building efficient and explainable machine learning models to help achieve the Autonomous Driving Network (ADN).
