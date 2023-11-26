@@ -25,13 +25,14 @@ interests:
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence
-- Taekwondo
+- Explainable Artificial Intelligence
+- Martial Arts
 
 education:
   courses:
   - course: PhD in Machine Learning
     institution: LIMOS, University of Clermont Auvergne
-    year: from Oct 2019 to now
+    year: from Oct 2019 to Dec 2022
   - course: Master of computer Science
     institution: University of Clermont Auvergne
     year: from Sep 2018 to Sep 2019
