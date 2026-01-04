@@ -18,7 +18,7 @@ organizations:
   url: "https://www.linkedin.com/company/huawei-ireland-research-center/mycompany/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, my main research interests are anomaly detection and explainable artificial intelligence.
+bio: Currently, my main research interests are anomaly detection, explainable AI, and agentic AI.
 
 interests:
 - Time Series Analysis
@@ -67,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "michael.mbouopda1@huawei.com"
+email: "michael.mbouopda@h-partners.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -76,6 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am a machine learning researcher at Huawei Technologies, affected at the Ireland Intelligent Operation & Management Lab.
-
-I am interested in Machine Learning and Artificial Intelligence in general. Currently, I am working on building efficient and explainable machine learning models to help achieve the Autonomous Driving Network (ADN).
+I am a machine learning researcher at Huawei Technologies, affected at the Ireland Intelligent Operation & Management Lab. I am currently working on building efficient and explainable artificial intelligence systems to help achieve the Autonomous Driving Network (ADN).

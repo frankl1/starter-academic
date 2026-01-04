@@ -56,7 +56,7 @@ sections:
           company: "Huawei Ireland Research"
           company_url: "https://www.linkedin.com/company/huawei-ireland-research-center/mycompany/"
           location: "Dublin, Ireland"
-          date_start: "2022-12-12"
+          date_start: "2022-11-01"
           date_end: ""
           description: "Use machine learning to achieve the Autonomous Driving Network (ADN). This position implies techniques such as time series analysis, anomaly detection and explainable artificial intelligence."
         - title: "Machine Learning Researcher "
